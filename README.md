@@ -18,9 +18,8 @@
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://github.com/Sumit9969/LEGENDBOT)
-
----------
+[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/LEGENDBOT) 
+--------
 
 ## Variables
 
