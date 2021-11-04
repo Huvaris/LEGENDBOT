@@ -1,6 +1,6 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Sumit Yadav. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Sumit9969/LEGENDBOT/",
+  "website": "https://github.com/Sumit9969/LEGENDBOT/",
+  "success_url": "https://t.me/Superiour_Music_Group",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -25,7 +25,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "Sumit Yadav",
       "required": false
     },
     "ALIVE_MSG": {
@@ -55,12 +55,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@Friends_Masti_Group",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@Superiour_Music_Group",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -136,7 +136,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://repl.it/@Sumit9969/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
