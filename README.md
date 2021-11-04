@@ -5,7 +5,7 @@
 [![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ Powered By Lêɠêɳ̃dẞø† ⚡</b>
+  <b>⚡ Powered By Sumit Yadav ⚡</b>
 </h6>
 
 <p align="center">
@@ -49,13 +49,13 @@
 </a>
 
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT)
+[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://github.com/Sumit9969/LEGENDBOT)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/Sumit9969/LEGENDBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
@@ -140,7 +140,7 @@
 
 The-LegendBot
 
-Poject [LEGENDBOT](https://github.com/The-LegendBot/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [LEGENDBOT](https://github.com/Sumit9969/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
