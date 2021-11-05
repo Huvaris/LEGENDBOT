@@ -1,6 +1,6 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Sumit Yadav. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Yash Raj. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Sumit9969/LEGENDBOT/",
-  "website": "https://github.com/Sumit9969/LEGENDBOT/",
+  "repository": "https://github.com/Huvaris/LEGENDBOT/",
+  "website": "https://github.com/Huvaris/LEGENDBOT/",
   "success_url": "https://t.me/Superiour_Music_Group",
   "env": {
     "ENV": {
@@ -136,7 +136,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@Sumit9969/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://repl.it/@Huvaris/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
