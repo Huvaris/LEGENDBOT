@@ -5,7 +5,7 @@
 [![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ Powered By Sumit Yadav ⚡</b>
+  <b>⚡ Powered By Yash Raj ⚡</b>
 </h6>
 
 
@@ -18,7 +18,7 @@
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/LEGENDBOT) 
+[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy?template=https://github.com/Huvaris/LEGENDBOT) 
 --------
 
 ## Variables
@@ -46,7 +46,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@Sumit9969/LEGENDBOT) 
+[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@Huvaris/LEGENDBOT) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -84,7 +84,7 @@
 
 The-LegendBot
 
-Poject [LEGENDBOT](https://github.com/Sumit9969/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [LEGENDBOT](https://github.com/Huvaris/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
