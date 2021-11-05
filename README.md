@@ -12,7 +12,7 @@
 ------
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Friends_Masti_House)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Superiour_Music_Group)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/carnivalbotshop)
 
 
 ------------
