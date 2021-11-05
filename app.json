@@ -25,7 +25,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Sumit Yadav",
+      "value": "Yash Raj",
       "required": false
     },
     "ALIVE_MSG": {
