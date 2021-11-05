@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/Huvaris/LEGENDBOT/",
   "website": "https://github.com/Huvaris/LEGENDBOT/",
-  "success_url": "https://t.me/Superiour_Music_Group",
+  "success_url": "https://t.me/carnivalbotshop",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -60,7 +60,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Superiour_Music_Group",
+      "value": "@Carnival_Bot_Shop",
       "required": false
     },
     "BOY_OR_GIRL": {
